@@ -21,6 +21,15 @@ This Library Management System (LMS) is a Java-based application that provides f
 - **Reports:** 
   - View issued books, overdue books, manage defaulters, and view all records.
 
+## Demo
+
+Check out the demo of the project on YouTube. Just click the image to watch the complete demo video for a thorough understanding.
+
+[![Watch the video](https://yt3.ggpht.com/0lCQMjDQlZ7whz3mVGI9Go9CHEThEgVnoiG5NUG6mkWwLLaCMEB8akpuf2V7Q-Wq7-CSttZyylF3OA=s1600-rw-nd-v1)](https://youtu.be/Q9wF1ULigI0)
+
+
+
+
 ## Components
 ### `LoginPage.java`
 - **Functionality:** Provides user login functionality.
@@ -119,8 +128,3 @@ This Library Management System (LMS) is a Java-based application that provides f
 
 ## 🛠 Skills
 Java, SQL, JDBC, Swing, Hashing, Prepared Statements, Exception Handling, OOP, MVC, GUI Design
-## Demo
-
-Check out the demo of the project on YouTube:
-
-[![Watch the video](https://yt3.ggpht.com/0lCQMjDQlZ7whz3mVGI9Go9CHEThEgVnoiG5NUG6mkWwLLaCMEB8akpuf2V7Q-Wq7-CSttZyylF3OA=s1600-rw-nd-v1)](https://youtu.be/Q9wF1ULigI0)
