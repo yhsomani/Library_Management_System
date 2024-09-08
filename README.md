@@ -85,7 +85,7 @@ Check out the demo of the project on YouTube. Just click the image to watch the 
 - **Database Errors:** Check database connection settings and ensure the database is running.
 
 ## 🛠 Skills Used
-
+**`Java`, `SQL`, `JDBC`, `Swing`, `Hashing`, `Prepared Statements`, `Exception Handling`, `OOP`, `MVC`, `GUI Design`**
 1. **Java**
    - **Purpose:** Core programming language used for developing the application.
    - **Application:** Implementing the backend logic and GUI components.
@@ -126,5 +126,4 @@ Check out the demo of the project on YouTube. Just click the image to watch the 
     - **Purpose:** Enhances user experience and interface usability.
     - **Application:** Designing intuitive interfaces and user interactions in Swing components.
 
-## 🛠 Skills
-Java, SQL, JDBC, Swing, Hashing, Prepared Statements, Exception Handling, OOP, MVC, GUI Design
+
