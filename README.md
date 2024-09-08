@@ -7,19 +7,19 @@ This Library Management System (LMS) is a Java-based application that provides f
 
 ## Features
 
-**User Management:** 
-- Users can sign up and log in to access their accounts.
-**Book Management:** 
-- Add, update, and delete book records.
-- View issued books and manage their details.
-**Pending Book Details:** 
-- Display books that are issued but not yet returned.
-**Defaulter List:** 
-- List of students who have overdue books.
-**Book Issuance and Return:** 
-- Issue and return books, with tracking of due dates and status.
-**Reports:** 
-- View issued books, overdue books, manage defaulters, and view all records.
+- **User Management:** 
+  - Users can sign up and log in to access their accounts.
+- **Book Management:** 
+  - Add, update, and delete book records.
+  - View issued books and manage their details.
+- **Pending Book Details:** 
+  - Display books that are issued but not yet returned.
+- **Defaulter List:** 
+  - List of students who have overdue books.
+- **Book Issuance and Return:** 
+  - Issue and return books, with tracking of due dates and status.
+- **Reports:** 
+  - View issued books, overdue books, manage defaulters, and view all records.
 
 ## Components
 ### `LoginPage.java`
